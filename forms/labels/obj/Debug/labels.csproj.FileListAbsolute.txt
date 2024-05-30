@@ -1,0 +1,10 @@
+C:\Users\vitto\Downloads\PC#\labels\bin\Debug\labels.exe.config
+C:\Users\vitto\Downloads\PC#\labels\bin\Debug\labels.exe
+C:\Users\vitto\Downloads\PC#\labels\bin\Debug\labels.pdb
+C:\Users\vitto\Downloads\PC#\labels\obj\Debug\labels.csproj.AssemblyReference.cache
+C:\Users\vitto\Downloads\PC#\labels\obj\Debug\labels.linkLabel.resources
+C:\Users\vitto\Downloads\PC#\labels\obj\Debug\labels.Properties.Resources.resources
+C:\Users\vitto\Downloads\PC#\labels\obj\Debug\labels.csproj.GenerateResource.cache
+C:\Users\vitto\Downloads\PC#\labels\obj\Debug\labels.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Downloads\PC#\labels\obj\Debug\labels.exe
+C:\Users\vitto\Downloads\PC#\labels\obj\Debug\labels.pdb

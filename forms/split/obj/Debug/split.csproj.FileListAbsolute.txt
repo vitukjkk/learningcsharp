@@ -1,0 +1,10 @@
+C:\Users\vitto\Downloads\PC#\split\bin\Debug\split.exe.config
+C:\Users\vitto\Downloads\PC#\split\bin\Debug\split.exe
+C:\Users\vitto\Downloads\PC#\split\bin\Debug\split.pdb
+C:\Users\vitto\Downloads\PC#\split\obj\Debug\split.csproj.AssemblyReference.cache
+C:\Users\vitto\Downloads\PC#\split\obj\Debug\split.Form1.resources
+C:\Users\vitto\Downloads\PC#\split\obj\Debug\split.Properties.Resources.resources
+C:\Users\vitto\Downloads\PC#\split\obj\Debug\split.csproj.GenerateResource.cache
+C:\Users\vitto\Downloads\PC#\split\obj\Debug\split.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Downloads\PC#\split\obj\Debug\split.exe
+C:\Users\vitto\Downloads\PC#\split\obj\Debug\split.pdb

@@ -1,0 +1,10 @@
+C:\Users\vitto\Downloads\PC#\mascara\bin\Debug\mascara.exe.config
+C:\Users\vitto\Downloads\PC#\mascara\bin\Debug\mascara.exe
+C:\Users\vitto\Downloads\PC#\mascara\bin\Debug\mascara.pdb
+C:\Users\vitto\Downloads\PC#\mascara\obj\Debug\mascara.csproj.AssemblyReference.cache
+C:\Users\vitto\Downloads\PC#\mascara\obj\Debug\mascara.Form1.resources
+C:\Users\vitto\Downloads\PC#\mascara\obj\Debug\mascara.Properties.Resources.resources
+C:\Users\vitto\Downloads\PC#\mascara\obj\Debug\mascara.csproj.GenerateResource.cache
+C:\Users\vitto\Downloads\PC#\mascara\obj\Debug\mascara.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Downloads\PC#\mascara\obj\Debug\mascara.exe
+C:\Users\vitto\Downloads\PC#\mascara\obj\Debug\mascara.pdb

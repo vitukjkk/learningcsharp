@@ -1,0 +1,10 @@
+C:\Users\vitto\Downloads\PC#\notify\bin\Debug\notify.exe.config
+C:\Users\vitto\Downloads\PC#\notify\bin\Debug\notify.exe
+C:\Users\vitto\Downloads\PC#\notify\bin\Debug\notify.pdb
+C:\Users\vitto\Downloads\PC#\notify\obj\Debug\notify.csproj.AssemblyReference.cache
+C:\Users\vitto\Downloads\PC#\notify\obj\Debug\notify.Form1.resources
+C:\Users\vitto\Downloads\PC#\notify\obj\Debug\notify.Properties.Resources.resources
+C:\Users\vitto\Downloads\PC#\notify\obj\Debug\notify.csproj.GenerateResource.cache
+C:\Users\vitto\Downloads\PC#\notify\obj\Debug\notify.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Downloads\PC#\notify\obj\Debug\notify.exe
+C:\Users\vitto\Downloads\PC#\notify\obj\Debug\notify.pdb

@@ -1,0 +1,10 @@
+C:\Users\vitto\Downloads\PC#\progresso\bin\Debug\progresso.exe.config
+C:\Users\vitto\Downloads\PC#\progresso\bin\Debug\progresso.exe
+C:\Users\vitto\Downloads\PC#\progresso\bin\Debug\progresso.pdb
+C:\Users\vitto\Downloads\PC#\progresso\obj\Debug\progresso.csproj.AssemblyReference.cache
+C:\Users\vitto\Downloads\PC#\progresso\obj\Debug\progresso.Form1.resources
+C:\Users\vitto\Downloads\PC#\progresso\obj\Debug\progresso.Properties.Resources.resources
+C:\Users\vitto\Downloads\PC#\progresso\obj\Debug\progresso.csproj.GenerateResource.cache
+C:\Users\vitto\Downloads\PC#\progresso\obj\Debug\progresso.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Downloads\PC#\progresso\obj\Debug\progresso.exe
+C:\Users\vitto\Downloads\PC#\progresso\obj\Debug\progresso.pdb

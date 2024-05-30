@@ -1,0 +1,10 @@
+C:\Users\vitto\Downloads\PC#\calendario\bin\Debug\calendario.exe.config
+C:\Users\vitto\Downloads\PC#\calendario\bin\Debug\calendario.exe
+C:\Users\vitto\Downloads\PC#\calendario\bin\Debug\calendario.pdb
+C:\Users\vitto\Downloads\PC#\calendario\obj\Debug\calendario.csproj.AssemblyReference.cache
+C:\Users\vitto\Downloads\PC#\calendario\obj\Debug\calendario.Form1.resources
+C:\Users\vitto\Downloads\PC#\calendario\obj\Debug\calendario.Properties.Resources.resources
+C:\Users\vitto\Downloads\PC#\calendario\obj\Debug\calendario.csproj.GenerateResource.cache
+C:\Users\vitto\Downloads\PC#\calendario\obj\Debug\calendario.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Downloads\PC#\calendario\obj\Debug\calendario.exe
+C:\Users\vitto\Downloads\PC#\calendario\obj\Debug\calendario.pdb

@@ -1,0 +1,10 @@
+C:\Users\vitto\Downloads\PC#\box\bin\Debug\box.exe.config
+C:\Users\vitto\Downloads\PC#\box\bin\Debug\box.exe
+C:\Users\vitto\Downloads\PC#\box\bin\Debug\box.pdb
+C:\Users\vitto\Downloads\PC#\box\obj\Debug\box.csproj.AssemblyReference.cache
+C:\Users\vitto\Downloads\PC#\box\obj\Debug\box.Form1.resources
+C:\Users\vitto\Downloads\PC#\box\obj\Debug\box.Properties.Resources.resources
+C:\Users\vitto\Downloads\PC#\box\obj\Debug\box.csproj.GenerateResource.cache
+C:\Users\vitto\Downloads\PC#\box\obj\Debug\box.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Downloads\PC#\box\obj\Debug\box.exe
+C:\Users\vitto\Downloads\PC#\box\obj\Debug\box.pdb

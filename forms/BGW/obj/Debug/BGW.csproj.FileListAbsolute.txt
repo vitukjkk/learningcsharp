@@ -1,0 +1,10 @@
+C:\Users\vitto\Downloads\PC#\BGW\obj\Debug\BGW.csproj.AssemblyReference.cache
+C:\Users\vitto\Downloads\PC#\BGW\obj\Debug\BGW.Form1.resources
+C:\Users\vitto\Downloads\PC#\BGW\obj\Debug\BGW.Properties.Resources.resources
+C:\Users\vitto\Downloads\PC#\BGW\obj\Debug\BGW.csproj.GenerateResource.cache
+C:\Users\vitto\Downloads\PC#\BGW\obj\Debug\BGW.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Downloads\PC#\BGW\bin\Debug\BGW.exe.config
+C:\Users\vitto\Downloads\PC#\BGW\bin\Debug\BGW.exe
+C:\Users\vitto\Downloads\PC#\BGW\bin\Debug\BGW.pdb
+C:\Users\vitto\Downloads\PC#\BGW\obj\Debug\BGW.exe
+C:\Users\vitto\Downloads\PC#\BGW\obj\Debug\BGW.pdb

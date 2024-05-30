@@ -1,0 +1,10 @@
+C:\Users\vitto\Downloads\PC#\listview\bin\Debug\listview.exe.config
+C:\Users\vitto\Downloads\PC#\listview\bin\Debug\listview.exe
+C:\Users\vitto\Downloads\PC#\listview\bin\Debug\listview.pdb
+C:\Users\vitto\Downloads\PC#\listview\obj\Debug\listview.csproj.AssemblyReference.cache
+C:\Users\vitto\Downloads\PC#\listview\obj\Debug\listview.Form1.resources
+C:\Users\vitto\Downloads\PC#\listview\obj\Debug\listview.Properties.Resources.resources
+C:\Users\vitto\Downloads\PC#\listview\obj\Debug\listview.csproj.GenerateResource.cache
+C:\Users\vitto\Downloads\PC#\listview\obj\Debug\listview.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Downloads\PC#\listview\obj\Debug\listview.exe
+C:\Users\vitto\Downloads\PC#\listview\obj\Debug\listview.pdb

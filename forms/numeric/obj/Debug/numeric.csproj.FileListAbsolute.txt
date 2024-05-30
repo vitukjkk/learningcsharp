@@ -1,0 +1,10 @@
+C:\Users\vitto\Downloads\PC#\numeric\bin\Debug\numeric.exe.config
+C:\Users\vitto\Downloads\PC#\numeric\bin\Debug\numeric.exe
+C:\Users\vitto\Downloads\PC#\numeric\bin\Debug\numeric.pdb
+C:\Users\vitto\Downloads\PC#\numeric\obj\Debug\numeric.csproj.AssemblyReference.cache
+C:\Users\vitto\Downloads\PC#\numeric\obj\Debug\numeric.Form1.resources
+C:\Users\vitto\Downloads\PC#\numeric\obj\Debug\numeric.Properties.Resources.resources
+C:\Users\vitto\Downloads\PC#\numeric\obj\Debug\numeric.csproj.GenerateResource.cache
+C:\Users\vitto\Downloads\PC#\numeric\obj\Debug\numeric.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Downloads\PC#\numeric\obj\Debug\numeric.exe
+C:\Users\vitto\Downloads\PC#\numeric\obj\Debug\numeric.pdb

@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vitto\\Downloads\\PC#\\data\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E37F81-36BF-42D5-830A-6EF408A0EEA3}|data.csproj|c:\\users\\vitto\\downloads\\pc#\\data\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E37F81-36BF-42D5-830A-6EF408A0EEA3}|data.csproj|solutionrelative:banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E37F81-36BF-42D5-830A-6EF408A0EEA3}|data.csproj|c:\\users\\vitto\\downloads\\pc#\\data\\gestao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8E37F81-36BF-42D5-830A-6EF408A0EEA3}|data.csproj|solutionrelative:gestao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E37F81-36BF-42D5-830A-6EF408A0EEA3}|data.csproj|c:\\users\\vitto\\downloads\\pc#\\data\\gestao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E37F81-36BF-42D5-830A-6EF408A0EEA3}|data.csproj|solutionrelative:gestao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E37F81-36BF-42D5-830A-6EF408A0EEA3}|data.csproj|c:\\users\\vitto\\downloads\\pc#\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E37F81-36BF-42D5-830A-6EF408A0EEA3}|data.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E37F81-36BF-42D5-830A-6EF408A0EEA3}|data.csproj|c:\\users\\vitto\\downloads\\pc#\\data\\newuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E37F81-36BF-42D5-830A-6EF408A0EEA3}|data.csproj|solutionrelative:newuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E37F81-36BF-42D5-830A-6EF408A0EEA3}|data.csproj|c:\\users\\vitto\\downloads\\pc#\\data\\newuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8E37F81-36BF-42D5-830A-6EF408A0EEA3}|data.csproj|solutionrelative:newuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E37F81-36BF-42D5-830A-6EF408A0EEA3}|data.csproj|C:\\Users\\vitto\\Downloads\\PC#\\data\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E37F81-36BF-42D5-830A-6EF408A0EEA3}|data.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E37F81-36BF-42D5-830A-6EF408A0EEA3}|data.csproj|C:\\Users\\vitto\\Downloads\\PC#\\data\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8E37F81-36BF-42D5-830A-6EF408A0EEA3}|data.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E37F81-36BF-42D5-830A-6EF408A0EEA3}|data.csproj|C:\\Users\\vitto\\Downloads\\PC#\\data\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E37F81-36BF-42D5-830A-6EF408A0EEA3}|data.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E37F81-36BF-42D5-830A-6EF408A0EEA3}|data.csproj|C:\\Users\\vitto\\Downloads\\PC#\\data\\globais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E37F81-36BF-42D5-830A-6EF408A0EEA3}|data.csproj|solutionrelative:globais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E37F81-36BF-42D5-830A-6EF408A0EEA3}|data.csproj|C:\\Users\\vitto\\Downloads\\PC#\\data\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8E37F81-36BF-42D5-830A-6EF408A0EEA3}|data.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 28,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gestao.cs",
+              "DocumentMoniker": "C:\\Users\\vitto\\Downloads\\PC#\\data\\gestao.cs",
+              "RelativeDocumentMoniker": "gestao.cs",
+              "ToolTip": "C:\\Users\\vitto\\Downloads\\PC#\\data\\gestao.cs",
+              "RelativeToolTip": "gestao.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAApwBkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:34:20.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gestao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vitto\\Downloads\\PC#\\data\\gestao.cs",
+              "RelativeDocumentMoniker": "gestao.cs",
+              "ToolTip": "C:\\Users\\vitto\\Downloads\\PC#\\data\\gestao.cs [Design]",
+              "RelativeToolTip": "gestao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:16:50.093Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "user.cs",
+              "DocumentMoniker": "C:\\Users\\vitto\\Downloads\\PC#\\data\\user.cs",
+              "RelativeDocumentMoniker": "user.cs",
+              "ToolTip": "C:\\Users\\vitto\\Downloads\\PC#\\data\\user.cs",
+              "RelativeToolTip": "user.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:12:30.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "newuser.cs",
+              "DocumentMoniker": "C:\\Users\\vitto\\Downloads\\PC#\\data\\newuser.cs",
+              "RelativeDocumentMoniker": "newuser.cs",
+              "ToolTip": "C:\\Users\\vitto\\Downloads\\PC#\\data\\newuser.cs",
+              "RelativeToolTip": "newuser.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAMwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:56:19.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "newuser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vitto\\Downloads\\PC#\\data\\newuser.cs",
+              "RelativeDocumentMoniker": "newuser.cs",
+              "ToolTip": "C:\\Users\\vitto\\Downloads\\PC#\\data\\newuser.cs [Design]",
+              "RelativeToolTip": "newuser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:52:00.314Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "globais.cs",
+              "DocumentMoniker": "C:\\Users\\vitto\\Downloads\\PC#\\data\\globais.cs",
+              "RelativeDocumentMoniker": "globais.cs",
+              "ToolTip": "C:\\Users\\vitto\\Downloads\\PC#\\data\\globais.cs",
+              "RelativeToolTip": "globais.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T23:08:47.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\vitto\\Downloads\\PC#\\data\\login.cs",
+              "RelativeDocumentMoniker": "login.cs",
+              "ToolTip": "C:\\Users\\vitto\\Downloads\\PC#\\data\\login.cs",
+              "RelativeToolTip": "login.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAewAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T23:03:15.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vitto\\Downloads\\PC#\\data\\login.cs",
+              "RelativeDocumentMoniker": "login.cs",
+              "ToolTip": "C:\\Users\\vitto\\Downloads\\PC#\\data\\login.cs [Design]",
+              "RelativeToolTip": "login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T22:56:54.914Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "banco.cs",
+              "DocumentMoniker": "C:\\Users\\vitto\\Downloads\\PC#\\data\\banco.cs",
+              "RelativeDocumentMoniker": "banco.cs",
+              "ToolTip": "C:\\Users\\vitto\\Downloads\\PC#\\data\\banco.cs",
+              "RelativeToolTip": "banco.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAmwEoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T22:46:03.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.cs",
+              "DocumentMoniker": "C:\\Users\\vitto\\Downloads\\PC#\\data\\main.cs",
+              "RelativeDocumentMoniker": "main.cs",
+              "ToolTip": "C:\\Users\\vitto\\Downloads\\PC#\\data\\main.cs",
+              "RelativeToolTip": "main.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAIAwwC4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T22:43:10.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vitto\\Downloads\\PC#\\data\\main.cs",
+              "RelativeDocumentMoniker": "main.cs",
+              "ToolTip": "C:\\Users\\vitto\\Downloads\\PC#\\data\\main.cs [Design]",
+              "RelativeToolTip": "main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:15:34.033Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

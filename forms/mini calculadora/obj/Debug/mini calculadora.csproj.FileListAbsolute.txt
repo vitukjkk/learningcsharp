@@ -1,0 +1,10 @@
+C:\Users\vitto\Downloads\PC#\mini calculadora\bin\Debug\mini calculadora.exe.config
+C:\Users\vitto\Downloads\PC#\mini calculadora\bin\Debug\mini calculadora.exe
+C:\Users\vitto\Downloads\PC#\mini calculadora\bin\Debug\mini calculadora.pdb
+C:\Users\vitto\Downloads\PC#\mini calculadora\obj\Debug\mini calculadora.csproj.AssemblyReference.cache
+C:\Users\vitto\Downloads\PC#\mini calculadora\obj\Debug\mini_calculadora.Properties.Resources.resources
+C:\Users\vitto\Downloads\PC#\mini calculadora\obj\Debug\mini calculadora.csproj.GenerateResource.cache
+C:\Users\vitto\Downloads\PC#\mini calculadora\obj\Debug\mini calculadora.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Downloads\PC#\mini calculadora\obj\Debug\mini calculadora.exe
+C:\Users\vitto\Downloads\PC#\mini calculadora\obj\Debug\mini calculadora.pdb
+C:\Users\vitto\Downloads\PC#\mini calculadora\obj\Debug\mini_calculadora.form_base.resources

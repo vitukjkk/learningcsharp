@@ -1,0 +1,10 @@
+C:\Users\vitto\Downloads\PC#\tree\bin\Debug\tree.exe.config
+C:\Users\vitto\Downloads\PC#\tree\bin\Debug\tree.exe
+C:\Users\vitto\Downloads\PC#\tree\bin\Debug\tree.pdb
+C:\Users\vitto\Downloads\PC#\tree\obj\Debug\tree.csproj.AssemblyReference.cache
+C:\Users\vitto\Downloads\PC#\tree\obj\Debug\tree.Form1.resources
+C:\Users\vitto\Downloads\PC#\tree\obj\Debug\tree.Properties.Resources.resources
+C:\Users\vitto\Downloads\PC#\tree\obj\Debug\tree.csproj.GenerateResource.cache
+C:\Users\vitto\Downloads\PC#\tree\obj\Debug\tree.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Downloads\PC#\tree\obj\Debug\tree.exe
+C:\Users\vitto\Downloads\PC#\tree\obj\Debug\tree.pdb

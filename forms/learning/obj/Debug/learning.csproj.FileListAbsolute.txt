@@ -1,0 +1,10 @@
+C:\Users\vitto\Downloads\PC#\learning\bin\Debug\learning.exe.config
+C:\Users\vitto\Downloads\PC#\learning\bin\Debug\learning.exe
+C:\Users\vitto\Downloads\PC#\learning\bin\Debug\learning.pdb
+C:\Users\vitto\Downloads\PC#\learning\obj\Debug\learning.csproj.AssemblyReference.cache
+C:\Users\vitto\Downloads\PC#\learning\obj\Debug\learning.Form1.resources
+C:\Users\vitto\Downloads\PC#\learning\obj\Debug\learning.Properties.Resources.resources
+C:\Users\vitto\Downloads\PC#\learning\obj\Debug\learning.csproj.GenerateResource.cache
+C:\Users\vitto\Downloads\PC#\learning\obj\Debug\learning.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Downloads\PC#\learning\obj\Debug\learning.exe
+C:\Users\vitto\Downloads\PC#\learning\obj\Debug\learning.pdb

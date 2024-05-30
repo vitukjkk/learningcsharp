@@ -1,0 +1,11 @@
+C:\Users\vitto\Downloads\PC#\aprendendo\bin\Debug\aprendendo.exe.config
+C:\Users\vitto\Downloads\PC#\aprendendo\bin\Debug\aprendendo.exe
+C:\Users\vitto\Downloads\PC#\aprendendo\bin\Debug\aprendendo.pdb
+C:\Users\vitto\Downloads\PC#\aprendendo\obj\Debug\aprendendo.csproj.AssemblyReference.cache
+C:\Users\vitto\Downloads\PC#\aprendendo\obj\Debug\aprendendo.Form1.resources
+C:\Users\vitto\Downloads\PC#\aprendendo\obj\Debug\aprendendo.Properties.Resources.resources
+C:\Users\vitto\Downloads\PC#\aprendendo\obj\Debug\aprendendo.csproj.GenerateResource.cache
+C:\Users\vitto\Downloads\PC#\aprendendo\obj\Debug\aprendendo.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Downloads\PC#\aprendendo\obj\Debug\aprendendo.exe
+C:\Users\vitto\Downloads\PC#\aprendendo\obj\Debug\aprendendo.pdb
+C:\Users\vitto\Downloads\PC#\aprendendo\obj\Debug\aprendendo.Form2.resources

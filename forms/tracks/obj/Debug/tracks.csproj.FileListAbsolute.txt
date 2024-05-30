@@ -1,0 +1,10 @@
+C:\Users\vitto\Downloads\PC#\tracks\bin\Debug\tracks.exe.config
+C:\Users\vitto\Downloads\PC#\tracks\bin\Debug\tracks.exe
+C:\Users\vitto\Downloads\PC#\tracks\bin\Debug\tracks.pdb
+C:\Users\vitto\Downloads\PC#\tracks\obj\Debug\tracks.csproj.AssemblyReference.cache
+C:\Users\vitto\Downloads\PC#\tracks\obj\Debug\tracks.Form1.resources
+C:\Users\vitto\Downloads\PC#\tracks\obj\Debug\tracks.Properties.Resources.resources
+C:\Users\vitto\Downloads\PC#\tracks\obj\Debug\tracks.csproj.GenerateResource.cache
+C:\Users\vitto\Downloads\PC#\tracks\obj\Debug\tracks.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Downloads\PC#\tracks\obj\Debug\tracks.exe
+C:\Users\vitto\Downloads\PC#\tracks\obj\Debug\tracks.pdb

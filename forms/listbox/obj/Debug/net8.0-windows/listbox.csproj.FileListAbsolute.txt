@@ -1,0 +1,17 @@
+C:\Users\vitto\Downloads\PC#\listbox\bin\Debug\net8.0-windows\listbox.exe
+C:\Users\vitto\Downloads\PC#\listbox\bin\Debug\net8.0-windows\listbox.deps.json
+C:\Users\vitto\Downloads\PC#\listbox\bin\Debug\net8.0-windows\listbox.runtimeconfig.json
+C:\Users\vitto\Downloads\PC#\listbox\bin\Debug\net8.0-windows\listbox.dll
+C:\Users\vitto\Downloads\PC#\listbox\bin\Debug\net8.0-windows\listbox.pdb
+C:\Users\vitto\Downloads\PC#\listbox\obj\Debug\net8.0-windows\listbox.Form1.resources
+C:\Users\vitto\Downloads\PC#\listbox\obj\Debug\net8.0-windows\listbox.csproj.GenerateResource.cache
+C:\Users\vitto\Downloads\PC#\listbox\obj\Debug\net8.0-windows\listbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitto\Downloads\PC#\listbox\obj\Debug\net8.0-windows\listbox.AssemblyInfoInputs.cache
+C:\Users\vitto\Downloads\PC#\listbox\obj\Debug\net8.0-windows\listbox.AssemblyInfo.cs
+C:\Users\vitto\Downloads\PC#\listbox\obj\Debug\net8.0-windows\listbox.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Downloads\PC#\listbox\obj\Debug\net8.0-windows\listbox.sourcelink.json
+C:\Users\vitto\Downloads\PC#\listbox\obj\Debug\net8.0-windows\listbox.dll
+C:\Users\vitto\Downloads\PC#\listbox\obj\Debug\net8.0-windows\refint\listbox.dll
+C:\Users\vitto\Downloads\PC#\listbox\obj\Debug\net8.0-windows\listbox.pdb
+C:\Users\vitto\Downloads\PC#\listbox\obj\Debug\net8.0-windows\listbox.genruntimeconfig.cache
+C:\Users\vitto\Downloads\PC#\listbox\obj\Debug\net8.0-windows\ref\listbox.dll

@@ -1,0 +1,10 @@
+C:\Users\vitto\Downloads\PC#\radiobutton\bin\Debug\radiobutton.exe.config
+C:\Users\vitto\Downloads\PC#\radiobutton\bin\Debug\radiobutton.exe
+C:\Users\vitto\Downloads\PC#\radiobutton\bin\Debug\radiobutton.pdb
+C:\Users\vitto\Downloads\PC#\radiobutton\obj\Debug\radiobutton.csproj.AssemblyReference.cache
+C:\Users\vitto\Downloads\PC#\radiobutton\obj\Debug\radiobutton.Form1.resources
+C:\Users\vitto\Downloads\PC#\radiobutton\obj\Debug\radiobutton.Properties.Resources.resources
+C:\Users\vitto\Downloads\PC#\radiobutton\obj\Debug\radiobutton.csproj.GenerateResource.cache
+C:\Users\vitto\Downloads\PC#\radiobutton\obj\Debug\radiobutton.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Downloads\PC#\radiobutton\obj\Debug\radiobutton.exe
+C:\Users\vitto\Downloads\PC#\radiobutton\obj\Debug\radiobutton.pdb

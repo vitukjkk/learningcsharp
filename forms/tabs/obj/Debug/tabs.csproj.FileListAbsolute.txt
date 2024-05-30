@@ -1,0 +1,10 @@
+C:\Users\vitto\Downloads\PC#\tabs\bin\Debug\tabs.exe.config
+C:\Users\vitto\Downloads\PC#\tabs\bin\Debug\tabs.exe
+C:\Users\vitto\Downloads\PC#\tabs\bin\Debug\tabs.pdb
+C:\Users\vitto\Downloads\PC#\tabs\obj\Debug\tabs.csproj.AssemblyReference.cache
+C:\Users\vitto\Downloads\PC#\tabs\obj\Debug\tabs.Form1.resources
+C:\Users\vitto\Downloads\PC#\tabs\obj\Debug\tabs.Properties.Resources.resources
+C:\Users\vitto\Downloads\PC#\tabs\obj\Debug\tabs.csproj.GenerateResource.cache
+C:\Users\vitto\Downloads\PC#\tabs\obj\Debug\tabs.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Downloads\PC#\tabs\obj\Debug\tabs.exe
+C:\Users\vitto\Downloads\PC#\tabs\obj\Debug\tabs.pdb

@@ -1,0 +1,10 @@
+C:\Users\vitto\Downloads\PC#\timerss\bin\Debug\timerss.exe.config
+C:\Users\vitto\Downloads\PC#\timerss\bin\Debug\timerss.exe
+C:\Users\vitto\Downloads\PC#\timerss\bin\Debug\timerss.pdb
+C:\Users\vitto\Downloads\PC#\timerss\obj\Debug\timerss.csproj.AssemblyReference.cache
+C:\Users\vitto\Downloads\PC#\timerss\obj\Debug\timerss.Form1.resources
+C:\Users\vitto\Downloads\PC#\timerss\obj\Debug\timerss.Properties.Resources.resources
+C:\Users\vitto\Downloads\PC#\timerss\obj\Debug\timerss.csproj.GenerateResource.cache
+C:\Users\vitto\Downloads\PC#\timerss\obj\Debug\timerss.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Downloads\PC#\timerss\obj\Debug\timerss.exe
+C:\Users\vitto\Downloads\PC#\timerss\obj\Debug\timerss.pdb

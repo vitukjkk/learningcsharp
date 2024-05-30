@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vitto\\Downloads\\PC#\\resources\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{183E1F5E-9FA1-4CF3-A220-5A2F25B5267F}|resources.csproj|c:\\users\\vitto\\downloads\\pc#\\resources\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183E1F5E-9FA1-4CF3-A220-5A2F25B5267F}|resources.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183E1F5E-9FA1-4CF3-A220-5A2F25B5267F}|resources.csproj|c:\\users\\vitto\\downloads\\pc#\\resources\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{183E1F5E-9FA1-4CF3-A220-5A2F25B5267F}|resources.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183E1F5E-9FA1-4CF3-A220-5A2F25B5267F}|resources.csproj|c:\\users\\vitto\\downloads\\pc#\\resources\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{183E1F5E-9FA1-4CF3-A220-5A2F25B5267F}|resources.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183E1F5E-9FA1-4CF3-A220-5A2F25B5267F}|resources.csproj|c:\\users\\vitto\\downloads\\pc#\\resources\\resources\\rabisco.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{183E1F5E-9FA1-4CF3-A220-5A2F25B5267F}|resources.csproj|solutionrelative:resources\\rabisco.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 28,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "rabisco.png",
+              "DocumentMoniker": "C:\\Users\\vitto\\Downloads\\PC#\\resources\\Resources\\rabisco.png",
+              "RelativeDocumentMoniker": "Resources\\rabisco.png",
+              "ToolTip": "C:\\Users\\vitto\\Downloads\\PC#\\resources\\Resources\\rabisco.png",
+              "RelativeToolTip": "Resources\\rabisco.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-26T20:33:54.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\vitto\\Downloads\\PC#\\resources\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\vitto\\Downloads\\PC#\\resources\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAEwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:33:02.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\vitto\\Downloads\\PC#\\resources\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\vitto\\Downloads\\PC#\\resources\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-26T20:30:43.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vitto\\Downloads\\PC#\\resources\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\vitto\\Downloads\\PC#\\resources\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:29:59.274Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

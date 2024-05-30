@@ -1,0 +1,15 @@
+C:\Users\vitto\Downloads\PC#\calc\calculadora\bin\Debug\net8.0\calculadora.exe
+C:\Users\vitto\Downloads\PC#\calc\calculadora\bin\Debug\net8.0\calculadora.deps.json
+C:\Users\vitto\Downloads\PC#\calc\calculadora\bin\Debug\net8.0\calculadora.runtimeconfig.json
+C:\Users\vitto\Downloads\PC#\calc\calculadora\bin\Debug\net8.0\calculadora.dll
+C:\Users\vitto\Downloads\PC#\calc\calculadora\bin\Debug\net8.0\calculadora.pdb
+C:\Users\vitto\Downloads\PC#\calc\calculadora\obj\Debug\net8.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitto\Downloads\PC#\calc\calculadora\obj\Debug\net8.0\calculadora.AssemblyInfoInputs.cache
+C:\Users\vitto\Downloads\PC#\calc\calculadora\obj\Debug\net8.0\calculadora.AssemblyInfo.cs
+C:\Users\vitto\Downloads\PC#\calc\calculadora\obj\Debug\net8.0\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Downloads\PC#\calc\calculadora\obj\Debug\net8.0\calculadora.sourcelink.json
+C:\Users\vitto\Downloads\PC#\calc\calculadora\obj\Debug\net8.0\calculadora.dll
+C:\Users\vitto\Downloads\PC#\calc\calculadora\obj\Debug\net8.0\refint\calculadora.dll
+C:\Users\vitto\Downloads\PC#\calc\calculadora\obj\Debug\net8.0\calculadora.pdb
+C:\Users\vitto\Downloads\PC#\calc\calculadora\obj\Debug\net8.0\calculadora.genruntimeconfig.cache
+C:\Users\vitto\Downloads\PC#\calc\calculadora\obj\Debug\net8.0\ref\calculadora.dll

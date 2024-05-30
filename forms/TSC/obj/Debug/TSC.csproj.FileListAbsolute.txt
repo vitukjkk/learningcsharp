@@ -1,0 +1,10 @@
+C:\Users\vitto\Downloads\PC#\TSC\bin\Debug\TSC.exe.config
+C:\Users\vitto\Downloads\PC#\TSC\bin\Debug\TSC.exe
+C:\Users\vitto\Downloads\PC#\TSC\bin\Debug\TSC.pdb
+C:\Users\vitto\Downloads\PC#\TSC\obj\Debug\TSC.csproj.AssemblyReference.cache
+C:\Users\vitto\Downloads\PC#\TSC\obj\Debug\TSC.Form1.resources
+C:\Users\vitto\Downloads\PC#\TSC\obj\Debug\TSC.Properties.Resources.resources
+C:\Users\vitto\Downloads\PC#\TSC\obj\Debug\TSC.csproj.GenerateResource.cache
+C:\Users\vitto\Downloads\PC#\TSC\obj\Debug\TSC.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Downloads\PC#\TSC\obj\Debug\TSC.exe
+C:\Users\vitto\Downloads\PC#\TSC\obj\Debug\TSC.pdb

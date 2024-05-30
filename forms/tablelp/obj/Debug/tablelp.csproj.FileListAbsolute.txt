@@ -1,0 +1,10 @@
+C:\Users\vitto\Downloads\PC#\tablelp\bin\Debug\tablelp.exe.config
+C:\Users\vitto\Downloads\PC#\tablelp\bin\Debug\tablelp.exe
+C:\Users\vitto\Downloads\PC#\tablelp\bin\Debug\tablelp.pdb
+C:\Users\vitto\Downloads\PC#\tablelp\obj\Debug\tablelp.csproj.AssemblyReference.cache
+C:\Users\vitto\Downloads\PC#\tablelp\obj\Debug\tablelp.Form1.resources
+C:\Users\vitto\Downloads\PC#\tablelp\obj\Debug\tablelp.Properties.Resources.resources
+C:\Users\vitto\Downloads\PC#\tablelp\obj\Debug\tablelp.csproj.GenerateResource.cache
+C:\Users\vitto\Downloads\PC#\tablelp\obj\Debug\tablelp.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Downloads\PC#\tablelp\obj\Debug\tablelp.exe
+C:\Users\vitto\Downloads\PC#\tablelp\obj\Debug\tablelp.pdb

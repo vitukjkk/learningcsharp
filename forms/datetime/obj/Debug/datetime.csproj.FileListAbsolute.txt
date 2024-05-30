@@ -1,0 +1,10 @@
+C:\Users\vitto\Downloads\PC#\datetime\bin\Debug\datetime.exe.config
+C:\Users\vitto\Downloads\PC#\datetime\bin\Debug\datetime.exe
+C:\Users\vitto\Downloads\PC#\datetime\bin\Debug\datetime.pdb
+C:\Users\vitto\Downloads\PC#\datetime\obj\Debug\datetime.csproj.AssemblyReference.cache
+C:\Users\vitto\Downloads\PC#\datetime\obj\Debug\datetime.Form1.resources
+C:\Users\vitto\Downloads\PC#\datetime\obj\Debug\datetime.Properties.Resources.resources
+C:\Users\vitto\Downloads\PC#\datetime\obj\Debug\datetime.csproj.GenerateResource.cache
+C:\Users\vitto\Downloads\PC#\datetime\obj\Debug\datetime.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Downloads\PC#\datetime\obj\Debug\datetime.exe
+C:\Users\vitto\Downloads\PC#\datetime\obj\Debug\datetime.pdb

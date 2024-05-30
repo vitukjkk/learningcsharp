@@ -1,0 +1,10 @@
+C:\Users\vitto\Downloads\PC#\browser\bin\Debug\browser.exe.config
+C:\Users\vitto\Downloads\PC#\browser\bin\Debug\browser.exe
+C:\Users\vitto\Downloads\PC#\browser\bin\Debug\browser.pdb
+C:\Users\vitto\Downloads\PC#\browser\obj\Debug\browser.csproj.AssemblyReference.cache
+C:\Users\vitto\Downloads\PC#\browser\obj\Debug\browser.Form1.resources
+C:\Users\vitto\Downloads\PC#\browser\obj\Debug\browser.Properties.Resources.resources
+C:\Users\vitto\Downloads\PC#\browser\obj\Debug\browser.csproj.GenerateResource.cache
+C:\Users\vitto\Downloads\PC#\browser\obj\Debug\browser.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Downloads\PC#\browser\obj\Debug\browser.exe
+C:\Users\vitto\Downloads\PC#\browser\obj\Debug\browser.pdb
